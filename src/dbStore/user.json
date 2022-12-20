@@ -1,0 +1,20 @@
+[
+  {
+    "password": "$2b$10$HnMYMfmwRefR.UN1rsfHDuZSEc2mr/ClS/ENQn.rLEeQYX2ZTaIZu",
+    "name": "Mazi Johnson",
+    "email": "godspowercuche2022@gmail.com",
+    "dob": "1996-10-07",
+    "userId": "03bfa79e-1c51-47ef-9be6-60557caddc42",
+    "cityOfResidence": "Port Harcourt",
+    "username": "username0020"
+  },
+  {
+    "password": "$2b$10$V3XOA.cIUXbxfroYrvzDpOvwZBGrSZgnrQeQL7K6qnUfh0GrRN6y6",
+    "name": "Mazi GP Uche",
+    "email": "godspowercuche2021@gmail.com",
+    "dob": "1996-10-07",
+    "userId": "86678a3d-60c6-403a-b88d-9135082726fd",
+    "cityOfResidence": "Port Harcourt",
+    "username": "username0021"
+  }
+]

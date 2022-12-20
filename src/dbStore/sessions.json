@@ -1,0 +1,37 @@
+[
+  {
+    "id": "61e27953-5566-464d-a4a6-c9b8b792312f",
+    "merchantId": "cf76b0ed-07f2-49d5-bad7-7c3da84c010b",
+    "startsAt": "14:00:22Z",
+    "endsAt": "14:45:22Z",
+    "type": "WeekEnd"
+  },
+  {
+    "id": "d762ec84-4cf6-42d8-aaa7-55bc98b8a22b",
+    "merchantId": "cf76b0ed-07f2-49d5-bad7-7c3da84c010b",
+    "startsAt": "14:50:22Z",
+    "endsAt": "15:35:22Z",
+    "type": "WeekEnd"
+  },
+  {
+    "id": "2cb1d420-db66-419f-85ac-31d54614399d",
+    "merchantId": "cf76b0ed-07f2-49d5-bad7-7c3da84c010b",
+    "startsAt": "9:00:22Z",
+    "endsAt": "9:45:22Z",
+    "type": "WeekDay"
+  },
+  {
+    "id": "dfafb342-5d37-40cf-9e44-89ea986f722c",
+    "merchantId": "cf76b0ed-07f2-49d5-bad7-7c3da84c010b",
+    "startsAt": "10:00:22Z",
+    "endsAt": "11:30:22Z",
+    "type": "WeekDay"
+  },
+  {
+    "id": "793165bf-830a-466e-8214-fa08babe7675",
+    "merchantId": "cf76b0ed-07f2-49d5-bad7-7c3da84c010b",
+    "startsAt": "10:00:22Z",
+    "endsAt": "11:00:22Z",
+    "type": "WeekDay"
+  }
+]
